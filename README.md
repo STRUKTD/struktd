@@ -12,9 +12,6 @@ people who build software.
   SDK API surface, not release notes, and hands you the fix.
   → [struktd.com/sentinel](https://struktd.com)
 
-- **[AI-First IDE](https://github.com/STRUKTD/ai-first-seed)** — An
-  AI-powered IDE with zero context loss. BYOC keeps your assistant aware of
-  every conversation, decision, and line of code.
 
 ### Elsewhere
 
